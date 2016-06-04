@@ -1,0 +1,32 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "Boilerplate for future react projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrbin42/react-skeleton.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "skeleton",
+    "react-skeleton"
+  ],
+  "author": "Adrienne Bing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrbin42/react-skeleton/issues"
+  },
+  "homepage": "https://github.com/adrbin42/react-skeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.5.0",
+    "babelify": "^7.3.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "watchify": "^3.7.0"
+  }
+}
